@@ -1,0 +1,32 @@
+#signup-title{
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.signup-error,.warning {
+    color: red;
+}
+.signup-sucess{
+    color: green;
+}
+#logout-button{
+ margin-top: 15px;
+}
+#go-back{
+    padding-left:10px;
+}
+
+#index-images{
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+    width:auto;
+    height: auto;
+    background: lightblue;
+    background: radial-gradient(white 30%, lightblue 70%);
+}
+
+#product-container{
+    padding-top:15px;
+}
